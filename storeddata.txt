@@ -1,7 +1,2 @@
 
-{'name': 'yashi', 'branch': 'aiml', 'regno': '12345', 'city': 'goa'}
-{'name': 'yashila', 'branch': 'cse aiml', 'regno': '123456', 'city': 'goa'}
-{'name': 'yashi', 'branch': 'cseaiml', 'regno': '25bai234h', 'city': 'goa'}
 
-{'name': 'dimpal', 'branch': 'cseaiml', 'regno': '25bai1289', 'city': 'goa'}
-{'name': 'suchita', 'branch': 'ece', 'regno': '25ece2345', 'city': 'goa'}
